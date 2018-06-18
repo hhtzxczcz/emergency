@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+	<status><![CDATA[success]]></status>
+	<country><![CDATA[Republic of Korea]]></country>
+	<countryCode><![CDATA[KR]]></countryCode>
+	<region><![CDATA[11]]></region>
+	<regionName><![CDATA[Seoul]]></regionName>
+	<city><![CDATA[Seoul]]></city>
+	<zip><![CDATA[]]></zip>
+	<lat><![CDATA[37.5985]]></lat>
+	<lon><![CDATA[126.9783]]></lon>
+	<timezone><![CDATA[Asia/Seoul]]></timezone>
+	<isp><![CDATA[Korea Telecom]]></isp>
+	<org><![CDATA[Korea Telecom]]></org>
+	<as><![CDATA[AS4766 Korea Telecom]]></as>
+	<query><![CDATA[119.207.238.66]]></query>
+</query>
